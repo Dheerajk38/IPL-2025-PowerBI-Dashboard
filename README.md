@@ -1,6 +1,6 @@
 Project Overview
 
-This project analyzes the IPL 2025 season using Microsoft Power BI. The dashboard provides insights into team performance, batting statistics, bowling statistics, venue analysis, and match outcomes through interactive visualizations.
+This project analyzes the IPL 2026 season using Microsoft Power BI. The dashboard provides insights into team performance, batting statistics, bowling statistics, venue analysis, and match outcomes through interactive visualizations.
 
 Dashboard Pages
 Executive Summary
@@ -51,7 +51,7 @@ Dashboard Preview
 
 
 Key Insights
-Royal Challengers Bengaluru won the IPL 2025 season.
+Royal Challengers Bengaluru won the IPL 2026 season.
 Gujarat Titans recorded one of the highest team totals.
 Vaibhav Suryavanshi emerged among the leading run scorers.
 Krunal Pandya and Josh Hazlewood were among the leading wicket takers.
